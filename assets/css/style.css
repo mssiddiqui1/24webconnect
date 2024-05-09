@@ -1802,7 +1802,7 @@ Maps Section style
 =====================*/
 
 .main_maps {
-    background: url(../images/maps.jpg) no-repeat center center;
+    /*background: url(../images/maps.jpg) no-repeat center center;*/
     position: relative;
     width: 100%;
     overflow: hidden;
