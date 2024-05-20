@@ -444,7 +444,8 @@ Separator
 /*
 Button
 */
-.btn {
+.btn:focus {
+    background-color: #ff6863;
     -webkit-transition: all 0.6s;
     transition: all 0.6s;
     text-transform: uppercase;
